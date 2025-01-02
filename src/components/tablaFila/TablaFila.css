@@ -1,0 +1,15 @@
+.fila {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    width: auto;
+}
+
+.fila-primary{
+    background-color: white;
+}
+
+.fila-secondary{
+    background-color: var(--fondo-color);
+}
