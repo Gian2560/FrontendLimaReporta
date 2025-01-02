@@ -1,0 +1,18 @@
+.tabla {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0px 0px;
+    width: 100%;
+  }
+  
+  .tabla-header{
+    border-bottom: 0.5px solid rgba(0, 0, 0, 0.12);
+  }
+  
+  
+  .tabla-filas{
+    display: flex;
+    flex-direction: column;
+    gap:12px;
+  }
